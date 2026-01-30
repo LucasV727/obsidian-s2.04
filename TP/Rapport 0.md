@@ -9,3 +9,14 @@ on peut voir que Vincent Vega à fait au total 1028 connections
 ### Combien y a-t-il d’étudiants ? 
 ![[Pasted image 20260130084736.png]]
 Il y a 21 differents étudiants
+### 2/
+![[Pasted image 20260130094845.png]]
+### 3
+![[Pasted image 20260130095304.png]]
+## Exercice 1
+### Quelle différence entre votre graphique Excel et la page que vous avez sous les yeux ?
+
+### Combien de lignes contient ce tableau (titre non compris) ?
+### Combien de connexions a fait Vincent Vega ?
+### Combien y a-t-il d’étudiants ?
+### Quelles sont les informations supplémentaires que vous pouvez obtenir avec ce Dashboard ?
