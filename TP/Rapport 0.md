@@ -15,7 +15,7 @@ Il y a 21 differents étudiants
 ![[Pasted image 20260130095304.png]]
 ## Exercice 1
 ### Quelle différence entre votre graphique Excel et la page que vous avez sous les yeux ?
-
+La différence entre ce dashboard et notre graphique Excel est que les données ne sont pas accessibles directement à travers un tableur qui utilise un fichier possiblement non à jour à travers un logiciel, mais à travers une interface graphique web qui rend l'accès aux données beaucoup plus simple pour toute personne qui veut voir les statistiques rapidement.
 ### Combien de lignes contient ce tableau (titre non compris) ?
 ### Combien de connexions a fait Vincent Vega ?
 ### Combien y a-t-il d’étudiants ?
