@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "TP/Rapport 0.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -212,6 +212,7 @@
   },
   "active": "b2b3051ce5bbc9df",
   "lastOpenFiles": [
+    "Pasted image 20260130084736.png",
     "Pasted image 20260130084514.png",
     "Pasted image 20260130084223.png",
     "TP/Rapport 1.md",
