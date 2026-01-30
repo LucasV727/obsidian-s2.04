@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lexique/requêtes (sql).md",
+                "file": "Lexique/raccourcis claviers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "requêtes (sql)"
+              "title": "raccourcis claviers"
             }
           }
         ],
@@ -199,9 +199,10 @@
   "active": "b01cf85da6f83c40",
   "lastOpenFiles": [
     "Lexique/base de donnée.md",
+    "Lexique/raccourcis claviers.md",
+    "Lexique/Ligne.md",
     "Lexique/requêtes (sql).md",
     "Lexique/Tableau.md",
-    "Lexique/Ligne.md",
     "README.md.md",
     "Pasted image 20260130081130.png",
     "Lexique",
