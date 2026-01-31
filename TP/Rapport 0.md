@@ -27,3 +27,60 @@ La différence entre ce dashboard et notre graphique Excel est que les données 
 ### Combien de connexions a fait Vincent Vega ?
 ### Combien y a-t-il d’étudiants ?
 ### Quelles sont les informations supplémentaires que vous pouvez obtenir avec ce Dashboard ?
+
+
+
+
+### Exercice 3. Quel est le rôle de l’intelligence décisionnelle (business intelligence ou BI en anglais) en entreprise ? 
+
+  
+
+### 1) Qu’est-ce que l’intelligence décisionnelle ? 
+
+ce sont l'ensemble des outils permettant de collecter, d'analyser et de transformer des données brutes en informations pour permettre de prendre des décisions
+  
+
+### 2) Regardez ce dashboard qui présente les informations RH (ressources humaines, human resources ou HR en anglais) d’une entreprise. 
+
+  
+
+a. Combien d’employés ont été embauchés (hired) en 2020 ? 
+	on peut voir dans le dashboard quand 2020, 35 personnes ont été embaucher
+	![[Pasted image 20260131184624.png]]
+
+  
+  
+
+b. Combien de femmes ont une position de Customer Service (service client) dans le département Sales (Ventes) ? 
+
+  
+
+c. En considérant la période du 1er juillet 2017 au 30 juin 2019, quel est le salaire moyen (average salary) d’un employé ? 
+
+  
+
+d. Sur la même période, comparer le salaire moyen des moins de 30 ans au salaire moyen des plus de 50 ans. 
+
+  
+
+e. Identifiez les 7 types d’éléments graphiques interactifs présents dans ce dashboard. 
+
+  
+
+3) Regardez le dashboard suivant. 
+
+  
+
+a. Quelles sont les informations présentées par ce dashboard ? 
+
+b. Quel est son objectif principal ? 
+
+c. Quel est le produit ayant le moins de succès en Allemagne (Germany) ? 
+
+d. Est-ce que toutes les campagnes ont eu lieu dans tous les pays présentés ? 
+
+e. Quelle proportion de clients ont un master ? 
+
+f. Identifiez les 5 types d’éléments graphiques interactifs présents dans ce dashboard
+
+**
