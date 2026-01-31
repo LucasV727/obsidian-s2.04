@@ -77,10 +77,14 @@ e. Identifiez les 7 types d’éléments graphiques interactifs présents dans c
   
 
 a. Quelles sont les informations présentées par ce dashboard ? 
+Le dashboard présente des indicateurs de performance marketing et commerciale d'une entreprise
 
 b. Quel est son objectif principal ? 
+Son objectif principal est d'analyser l'efficacité des campagnes marketing passées et le comportement d'achat des client.
 
 c. Quel est le produit ayant le moins de succès en Allemagne (Germany) ? 
+on peut voir qu'en allemange le produit le moin vendue est les bonbon  avec environ 3k sur 2 ans 
+![[Pasted image 20260131204256.png]]
 
 d. Est-ce que toutes les campagnes ont eu lieu dans tous les pays présentés ? 
 
@@ -88,4 +92,3 @@ e. Quelle proportion de clients ont un master ? 
 
 f. Identifiez les 5 types d’éléments graphiques interactifs présents dans ce dashboard
 
-**
