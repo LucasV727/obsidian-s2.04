@@ -63,11 +63,13 @@ le salaire moyen d’un employé est de 4.42M
   
 
 d. Sur la même période, comparer le salaire moyen des moins de 30 ans au salaire moyen des plus de 50 ans. 
-
-  
+on peut voir que le salaire moyen est de moins de 30 ans et de 2.54 M par mois
+![[Pasted image 20260131191352.png]]
+et pour les plus de 50 ans le salaire moyenne et de 803.76 k par mois 
+![[Pasted image 20260131191939.png]]
 
 e. Identifiez les 7 types d’éléments graphiques interactifs présents dans ce dashboard. 
-
+	nous pouvons voir des grphique des tableau 
   
 
 3) Regardez le dashboard suivant. 
