@@ -51,12 +51,15 @@ a. Combien d’employés ont été embauchés (hired) en 2020 ? 
   
   
 
-b. Combien de femmes ont une position de Customer Service (service client) dans le département Sales (Ventes) ? 
+b. Combien de femmes ont une position de Customer Service (service client) dans le département Sales (Ventes) ?
+on peut voir que 42 femme sont sur la position de Customer Service tout année confondus 
+![[Pasted image 20260131190048.png]]
 
   
 
 c. En considérant la période du 1er juillet 2017 au 30 juin 2019, quel est le salaire moyen (average salary) d’un employé ? 
-
+le salaire moyen d’un employé est de 4.42M 
+![[Pasted image 20260131185758.png]]
   
 
 d. Sur la même période, comparer le salaire moyen des moins de 30 ans au salaire moyen des plus de 50 ans. 
