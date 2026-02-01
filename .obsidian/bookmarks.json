@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1769984248097,
+      "path": "Home.md"
+    },
+    {
+      "type": "folder",
+      "ctime": 1769984197017,
+      "path": "Rapports"
+    },
+    {
+      "type": "file",
+      "ctime": 1769984219914,
+      "path": "dictionnaire.md"
+    },
+    {
+      "type": "folder",
+      "ctime": 1769984205665,
+      "path": "Lexique"
+    },
+    {
+      "type": "folder",
+      "ctime": 1769984209713,
+      "path": "TP pdf"
+    }
+  ]
+}
