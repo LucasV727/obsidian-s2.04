@@ -100,6 +100,8 @@ f. Identifiez les 5 types d’éléments graphiques interactifs présents dans c
 1) Citer 5 outils permettant de construire des Dashboard
 	nous avons Microsoft Power BI, oracle APEX, 
 2) Quels sont les avantages par rapport à un fichier Excel ? 
-	Les Dashboards permettent de gérer du grand volume de données et d'interagir avec des graphiques, tableaux,... Les Dashboards permettent aussi de collaborer avec des sécurités, des gestions de droits d'accès. Comme dernier avantage, nous avons l'automatisation qui réfléchit automatiquement les informations
-3) Quels sont les inconvénients ? 
+	Les Dashboards permettent de gérer du grand volume de données et d'interagir avec des graphiques, tableaux,... Les Dashboards permettent aussi de collaborer avec des sécurités, des gestions de droits d'accès. Comme dernier avantage, nous avons l'automatisation qui réfléchit automatiquement les informations 
+3) Quels sont les inconvénients ?
+	les inconvénients sont le coût élevé car cela peut coûter cher, mais aussi le temps mis en œuvre pour le mettre en place car un simple tableau sans demande propose moins de possibilités
 4) Quel est le coût pour la planète de l’usage de ces données ?
+	Comme tout donné stocké dans un cloud, cela demande des ressources électriques et éventuellement de l'eau pour être stocké et refroidir, sans même parler des matériaux pour la construction des serveurs et aussi les ressources nécessaires pour faire voyager les informations du serveur à notre ordinateur
