@@ -1,28 +1,30 @@
 {
   "main": {
-    "id": "c4a4730917008e07",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "24ce3de7b2a083ea",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "807afdd1d11b2530",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lexique/Ligne.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Ligne"
+              "title": "Home"
             }
           },
           {
-            "id": "b01cf85da6f83c40",
+            "id": "6fc442a8762cd636",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,6 +199,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -207,8 +210,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b01cf85da6f83c40",
+  "active": "6fc442a8762cd636",
   "lastOpenFiles": [
+    "Home.md",
+    "Rapports/Rapport 0.md",
+    "conflict-files-obsidian-git.md",
     "TP pdf/S2.04 - TP0 - Sujet - MACQUET VIALLET 25-26.pdf",
     "Lexique/raccourcis claviers.md",
     "TP/Rapport 0.md",
@@ -217,7 +223,6 @@
     "Rapports/Rapport 2.md",
     "Rapports/Rapport 3.md",
     "Rapports/Rapport 1.md",
-    "Rapports/Rapport 0.md",
     "Rapports",
     "Pasted image 20260201222607.png",
     "Pasted image 20260201222558.png",
@@ -241,12 +246,10 @@
     "Lexique/requêtes (sql).md",
     "nvoinnv.md",
     "Lexique/Ligne.md",
-    "Lexique/base de donnée.md",
     "Pasted image 20260131204256.png",
     "Pasted image 20260131204220.png",
     "Pasted image 20260131191939.png",
     "Pasted image 20260131191352.png",
-    "TP/Rapport 1.md",
     "TP",
     "Lexique"
   ]
