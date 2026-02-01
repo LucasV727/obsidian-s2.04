@@ -95,3 +95,11 @@ tout pays confondu, soit environ 16% des clients concernés
 
 f. Identifiez les 5 types d’éléments graphiques interactifs présents dans ce dashboard
 
+### Exercice 4. Outils permettant de construire des dashboards interactifs : 
+
+1) Citer 5 outils permettant de construire des Dashboard
+	nous avons Microsoft Power BI, oracle APEX, 
+2) Quels sont les avantages par rapport à un fichier Excel ? 
+	Les Dashboards permettent de gérer du grand volume de données et d'interagir avec des graphiques, tableaux,... Les Dashboards permettent aussi de collaborer avec des sécurités, des gestions de droits d'accès. Comme dernier avantage, nous avons l'automatisation qui réfléchit automatiquement les informations
+3) Quels sont les inconvénients ? 
+4) Quel est le coût pour la planète de l’usage de ces données ?
