@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TP/Rapport 0.md",
+                "file": "Rapports/Rapport 0.md",
                 "mode": "preview",
                 "source": false
               },
@@ -73,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -200,25 +200,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Create new base": false
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "graph:Open graph view": false
     }
   },
   "active": "b2b3051ce5bbc9df",
   "lastOpenFiles": [
+    "Rapports/Rapport 3.md",
+    "nvoinnv.md",
+    "Rapports/Rapport 2.md",
+    "Rapports/Rapport 0.md",
+    "Pasted image 20260130110005.png",
+    "Pasted image 20260130105956.png",
+    "Pasted image 20260130105757.png",
+    "Pasted image 20260130101956.png",
+    "Pasted image 20260130101905.png",
+    "Pasted image 20260130101817.png",
     "Pasted image 20260130095304.png",
     "Pasted image 20260130094845.png",
     "Pasted image 20260130084736.png",
     "Pasted image 20260130084514.png",
-    "Pasted image 20260130084223.png",
-    "TP/Rapport 1.md",
-    "TP/Rapport 0.md",
-    "TP",
+    "Rapports/Rapport 1.md",
+    "Rapports",
     "README.md.md",
     "test.md",
     "Lexique/raccourcis claviers.md",
@@ -226,7 +235,6 @@
     "Lexique/Ligne.md",
     "Lexique/requêtes (sql).md",
     "Lexique/Tableau.md",
-    "Pasted image 20260130081130.png",
     "Lexique"
   ]
 }

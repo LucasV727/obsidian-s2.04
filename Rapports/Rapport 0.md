@@ -24,6 +24,13 @@ nous n'avons pas réussi a trier car comme le tableaux dépend de la ligne B et 
 ### Quelle différence entre votre graphique Excel et la page que vous avez sous les yeux ?
 La différence entre ce dashboard et notre graphique Excel est que les données ne sont pas accessibles directement à travers un tableur qui utilise un fichier possiblement non à jour à travers un logiciel, mais à travers une interface graphique web qui rend l'accès aux données beaucoup plus simple pour toute personne qui veut voir les statistiques rapidement.
 ### Combien de lignes contient ce tableau (titre non compris) ?
+Ils disent que il y a 20280
+![[Pasted image 20260130110005.png]]
 ### Combien de connexions a fait Vincent Vega ?
+![[Pasted image 20260130105757.png]]
+il a fait 1028 connexions a moodle.
 ### Combien y a-t-il d’étudiants ?
+Il y a 21 étudiants
+![[Pasted image 20260130105956.png]]
 ### Quelles sont les informations supplémentaires que vous pouvez obtenir avec ce Dashboard ?
+Dans ce contexte, il y a pas d'information supplémentare dans le dashboard que il est impossible d'avoir depuis exel.
