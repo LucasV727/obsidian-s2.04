@@ -29,6 +29,35 @@ La différence entre ce dashboard et notre graphique Excel est que les données 
 ### Quelles sont les informations supplémentaires que vous pouvez obtenir avec ce Dashboard ?
 
 
+### Exercice 2. Visite comparative de 2 sites sur les jeux
+1) Aller sur les sites suivants : u.gg et leagueofgraphs.com
+	a. Comment ces deux sites ont-ils décidé de représenter le classement des meilleur
+	champions à jouer ?
+	On peut voir que ces deux sites ont choisi de classer les champions en fonction de plusieurs critères, mais ils gardent tous les deux le classement avec une tierlist (S, A, B, C). Et avec d'autres façons de les trier, par exemple winrate popularité, etc
+	
+	
+	b. Quelles options de tri sur ce classements ces deux sites proposent-ils ?
+		 Les joueurs peuvent organiser les données selon le Rank , le Role et le Champion mais aussi Les indicateurs de performance tels que le Tier , le Win Rate (taux de victoire), le Pick Rate (popularité) et le Ban Rate (taux de bannissement) Enfin, des options permettent de consulter les Counter Picks et le volume total de Matches.
+	
+	c. Par ailleurs, pourquoi avec les mêmes options choisies le classement est-il différent
+	sur les deux sites ? Peut-on en conclure que c'est la source des données qui
+	diffère ?
+	Les classements diffèrent entre les deux plateformes car chacune utilise sa propre facon de calcul et extrait ses données de manière indépendante via l'API de Riot Games, Il peut y avoir des différences dans la fréquence de mise à jour et la taille des données
+
+1) Comment u.gg et leagueofgraph.com ont-ils décidé de représenter le classement des
+meilleurs joueurs au monde ? Quelles différences constatez-vous ? Certaines de ces
+différences sont-elles purement esthétiques ? Certaines informations sont-elles montrées
+par une des plateformes, et pas par l'autre ?
+2) Sur le site LeagueofGraph :
+a. rechercher les statistiques du RKR#123 qui est le meilleur joueur Européen en
+classement "SoloQ" au moment de l'écriture de ces questions
+b. Dans l’onglet Pattern, comment appelle-ton les différents composants graphiques
+utilisés ?
+c. Expliquez pourquoi les éléments suivants sont représentés de manière différente :
+• "Winrate per day" (Taux de victoire selon les jours)
+• "Winrate / Game Duration" (Taux de victoire en fonction de la durée d'une
+partie)
+• "Blue / Red winrates" (Taux de victoire selon la position jouée : bleue ou rouge)
 
 
 ### Exercice 3. Quel est le rôle de l’intelligence décisionnelle (business intelligence ou BI en anglais) en entreprise ? 
@@ -69,7 +98,7 @@ et pour les plus de 50 ans le salaire moyenne et de 803.76 k par mois
 ![[Pasted image 20260131191939.png]]
 
 e. Identifiez les 7 types d’éléments graphiques interactifs présents dans ce dashboard. 
-	nous pouvons voir des grphique des tableau 
+	Nous pouvons voir des graphiques en anneaux, barres empiler, un tableau, un curseur de date et des cases de données pour l'affichage de chiffres clés (Total Employees, Avg Salary).
   
 
 3) Regardez le dashboard suivant. 
@@ -94,7 +123,7 @@ on peut voir que le nombre de clients œuvrant un master est de 370
 tout pays confondu, soit environ 16% des clients concernés 
 
 f. Identifiez les 5 types d’éléments graphiques interactifs présents dans ce dashboard
-
+nous pouvons voir un graphique, des Barres empilées ,bâtons empiler , des bulle , une Cartes de données et  un menu déroulant
 ### Exercice 4. Outils permettant de construire des dashboards interactifs : 
 
 1) Citer 5 outils permettant de construire des Dashboard
