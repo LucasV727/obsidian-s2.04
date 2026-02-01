@@ -87,8 +87,11 @@ on peut voir qu'en allemange le produit le moin vendue est les bonbon  avec envi
 ![[Pasted image 20260131204256.png]]
 
 d. Est-ce que toutes les campagnes ont eu lieu dans tous les pays présentés ? 
+oui, on peut voir qu'en fonction du pays sélectionné, le nombre de campagnes reste le même
 
 e. Quelle proportion de clients ont un master ? 
+on peut voir que le nombre de clients œuvrant un master est de 370 
+tout pays confondu, soit environ 16% des clients concernés 
 
 f. Identifiez les 5 types d’éléments graphiques interactifs présents dans ce dashboard
 
