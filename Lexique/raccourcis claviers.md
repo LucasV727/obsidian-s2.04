@@ -1,1 +1,1 @@
-Ce sont des cominaisons de touches pour pourvoir
+Ce sont des combinaisons de touches pour pouvoir
