@@ -131,7 +131,7 @@ nous pouvons voir un graphique, des Barres empilées ,bâtons empiler , des bull
 ### Exercice 4. Outils permettant de construire des dashboards interactifs : 
 
 1) Citer 5 outils permettant de construire des Dashboard
-	nous avons Microsoft Power BI, oracle APEX, 
+	nous avons Microsoft Power BI, oracle APEX, Google Looker Studio, Qlik Sense, Zoho Analytics
 2) Quels sont les avantages par rapport à un fichier Excel ? 
 	Les Dashboards permettent de gérer du grand volume de données et d'interagir avec des graphiques, tableaux,... Les Dashboards permettent aussi de collaborer avec des sécurités, des gestions de droits d'accès. Comme dernier avantage, nous avons l'automatisation qui réfléchit automatiquement les informations 
 3) Quels sont les inconvénients ?
