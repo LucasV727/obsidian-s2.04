@@ -11,9 +11,8 @@ on peut voir que Vincent Vega à fait au total 1028 connections
 Il y a 21 differents étudiants
 ### 2/
 ![[Pasted image 20260130094845.png]]
-### 3
+### 3/
 ![[Pasted image 20260130095304.png]]
-
 ### 4/
 ![[Pasted image 20260130101905.png]]
 
@@ -30,16 +29,11 @@ Ils disent que il y a 20280
 ![[Pasted image 20260130105757.png]]
 il a fait 1028 connexions a moodle.
 ### Combien y a-t-il d’étudiants ?
-<<<<<<< HEAD:Rapports/Rapport 0.md
 Il y a 21 étudiants
 ![[Pasted image 20260130105956.png]]
 ### Quelles sont les informations supplémentaires que vous pouvez obtenir avec ce Dashboard ?
 Dans ce contexte, il y a pas d'information supplémentare dans le dashboard que il est impossible d'avoir depuis exel.
-=======
-### Quelles sont les informations supplémentaires que vous pouvez obtenir avec ce Dashboard ?
-
-
-### Exercice 2. Visite comparative de 2 sites sur les jeux
+## Exercice 2
 1) Aller sur les sites suivants : u.gg et leagueofgraphs.com
 	a. Comment ces deux sites ont-ils décidé de représenter le classement des meilleur
 	champions à jouer ?
@@ -54,7 +48,7 @@ Dans ce contexte, il y a pas d'information supplémentare dans le dashboard que 
 	diffère ?
 	Les classements diffèrent entre les deux plateformes car chacune utilise sa propre facon de calcul et extrait ses données de manière indépendante via l'API de Riot Games, Il peut y avoir des différences dans la fréquence de mise à jour et la taille des données
 
-1) Comment u.gg et leagueofgraph.com ont-ils décidé de représenter le classement des
+2) Comment u.gg et leagueofgraph.com ont-ils décidé de représenter le classement des
 meilleurs joueurs au monde ? Quelles différences constatez-vous ? Certaines de ces
 différences sont-elles purement esthétiques ? Certaines informations sont-elles montrées
 par une des plateformes, et pas par l'autre ?
@@ -144,4 +138,3 @@ nous pouvons voir un graphique, des Barres empilées ,bâtons empiler , des bull
 	les inconvénients sont le coût élevé car cela peut coûter cher, mais aussi le temps mis en œuvre pour le mettre en place car un simple tableau sans demande propose moins de possibilités
 4) Quel est le coût pour la planète de l’usage de ces données ?
 	Comme tout donné stocké dans un cloud, cela demande des ressources électriques et éventuellement de l'eau pour être stocké et refroidir, sans même parler des matériaux pour la construction des serveurs et aussi les ressources nécessaires pour faire voyager les informations du serveur à notre ordinateur
->>>>>>> origin/main:TP/Rapport 0.md
