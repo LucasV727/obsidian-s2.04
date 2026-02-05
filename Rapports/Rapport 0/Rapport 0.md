@@ -157,13 +157,13 @@ Nous pouvons voir un graphique, des barres empilées, des bâtons empilés, des 
 
 1. Citer 5 outils permettant de construire des dashboards.
 
-   Nous avons Microsoft Power BI, Oracle APEX,
-2. Quels sont les avantages par rapport à un fichier Excel ?
+   Nous avons Microsoft Power BI, Oracle APEX, Google Looker Studio, Qlik Sense, Zoho Analytics
+1. Quels sont les avantages par rapport à un fichier Excel ?
 
    Les dashboards permettent de gérer un grand volume de données et d'interagir avec des graphiques, tableaux, etc. Les dashboards permettent aussi de collaborer avec des sécurités, des gestions de droits d'accès. Comme dernier avantage, nous avons l'automatisation qui rafraîchit automatiquement les informations.
-3. Quels sont les inconvénients ?
+2. Quels sont les inconvénients ?
 
    Les inconvénients sont le coût élevé car cela peut coûter cher, mais aussi le temps mis en œuvre pour le mettre en place car un simple tableau sans demande propose moins de possibilités.
-4. Quel est le coût pour la planète de l’usage de ces données ?
+3. Quel est le coût pour la planète de l’usage de ces données ?
 
    Comme toute donnée stockée dans un cloud, cela demande des ressources électriques et éventuellement de l'eau pour être stockée et refroidie, sans même parler des matériaux pour la construction des serveurs et aussi les ressources nécessaires pour faire voyager les informations du serveur à notre ordinateur.
