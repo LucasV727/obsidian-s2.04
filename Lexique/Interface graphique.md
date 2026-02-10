@@ -4,7 +4,7 @@ Une interface graphique c'est quelque chose qui permet d'interagir avec un appar
 
 C'est utile pour :
 - visualiser plus clairement un [[Tableau]] ou un [[dashboard]].
-- travailler sur une [[base de donnée]] sans écrire manuellement toutes les [[requetes (sql)]].
+- travailler sur une [[base de données]] sans écrire manuellement toutes les [[requêtes (SQL)]].
 - naviguer facilement à la souris, même si les [[raccourcis claviers]] restent pratiques pour aller plus vite.
 
 >[!note]

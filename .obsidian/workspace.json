@@ -32,9 +32,23 @@
               "icon": "lucide-git-fork",
               "title": "Vue graphique"
             }
+          },
+          {
+            "id": "add5a43ba2d226b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,11 +220,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "589f7ca3cdab36c0",
+  "active": "add5a43ba2d226b6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "dictionnaire.md",
+    "Rapports/Rapport 0/Rapport 0.md",
+    "Rapports/Rapport 0/Log etudiants Moodle - R1.01 23-24.xlsx",
+    "Rapports/Rapport 0",
+    "README.md",
+    "Pasted image 20260205122336.png",
+    "Pasted image 20260205121512.png",
+    "Pasted image 20260205115942.png",
+    "Lexique/systèmes décisionnels.md",
+    "Lexique/requêtes (SQL).md",
+    "Lexique/base de données.md",
     "Home.md",
     "Rapports/Rapport 0.md",
-    "conflict-files-obsidian-git.md",
     "TP pdf/S2.04 - TP0 - Sujet - MACQUET VIALLET 25-26.pdf",
     "Lexique/raccourcis claviers.md",
     "TP/Rapport 0.md",
@@ -236,15 +262,7 @@
     "Lexique/dashboard.md",
     "Lexique/cellules.md",
     "Lexique/business intelligence.md",
-    "Lexique/Interface graphique.md",
-    "Lexique/Excel.md",
-    "Lexique/requêtes (sql).md",
-    "nvoinnv.md",
-    "Lexique/Ligne.md",
     "Pasted image 20260131204256.png",
-    "Pasted image 20260131204220.png",
-    "Pasted image 20260131191939.png",
-    "Pasted image 20260131191352.png",
     "TP",
     "Lexique"
   ]
