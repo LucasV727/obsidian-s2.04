@@ -70,5 +70,19 @@ on peut voir que losque l'on mes une égalité nous obtenons moins de résultats
 
 si nous rajoutons aussi une contrainte sur tortured phrases nous pouvons voir que nos résultats descende a 297 :![[Pasted image 20260211084513.png]]
 
+## Exercice 6
+
+en tant que non infomaticient les ficher exel sont moin pratique par exemple le fait de devoir inporter le ficher CSV plutot que de simplement cliquer pour l'ouvrir
+nous pouvons essayer de selectionner tout les annes superieur a 2015 on peut voir que cela est moin intuitifs :
+![[Pasted image 20260212114338.png]]
+
+ou même le fait que l'on puissent pas sélectionner ou désélectionner les collone que l'on veut afficher facilement nous somme obliger de le faire un par un.
+le probleme pour les grande base de donner est que nous devons sotcker tout su norte ordinateur se qui peut vite saturer notre diske dur mais egalement le fait que exel est moin performent surtout si nous avons un ordinateur de bureaux alors que les dashbord sur sur de gros serveur. 
+
+
+
+
+
+
 
 
