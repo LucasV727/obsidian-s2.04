@@ -81,6 +81,18 @@ le probleme pour les grande base de donner est que nous devons sotcker tout su n
 
 
 
+## Exercice 9 
+### a)
+![[Pasted image 20260212115757.png]]
+![[Pasted image 20260212115421.png]]
+
+### b) 
+![[Pasted image 20260212115709.png]]
+![[Pasted image 20260212115637.png]]
+
+### e) 
+![[Pasted image 20260212120436.png]]
+![[Pasted image 20260212120459.png]]
 
 
 
