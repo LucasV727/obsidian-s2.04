@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "589f7ca3cdab36c0",
+            "id": "ca2b20edad4f709b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -91,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,8 +211,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "589f7ca3cdab36c0",
+  "active": "ca2b20edad4f709b",
   "lastOpenFiles": [
+    "Home.md",
+    "Rapports/Rapport 1.md",
     "Pasted image 20260211084513.png",
     "Pasted image 20260211084328.png",
     "Pasted image 20260211084228.png",
@@ -222,9 +225,7 @@
     "Pasted image 20260211082554.png",
     "Pasted image 20260211082529.png",
     "Pasted image 20260211082223.png",
-    "Pasted image 20260211082200.png",
     "conflict-files-obsidian-git.md",
-    "Rapports/Rapport 1.md",
     "dictionnaire.md",
     "Rapports/Rapport 0/Rapport 0.md",
     "Rapports/Rapport 0/Log etudiants Moodle - R1.01 23-24.xlsx",
@@ -233,7 +234,6 @@
     "Lexique/systèmes décisionnels.md",
     "Lexique/requêtes (SQL).md",
     "Lexique/base de données.md",
-    "Home.md",
     "Rapports/Rapport 0.md",
     "TP pdf/S2.04 - TP0 - Sujet - MACQUET VIALLET 25-26.pdf",
     "Lexique/raccourcis claviers.md",
