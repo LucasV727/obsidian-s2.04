@@ -36,9 +36,23 @@
               "icon": "lucide-file",
               "title": "Rapport 1 1"
             }
+          },
+          {
+            "id": "eacf86ca6beb540f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,10 +213,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "149c3b55d969a846",
+  "active": "eacf86ca6beb540f",
   "lastOpenFiles": [
-    "Rapports/Rapport 1.md",
     "Rapports/Rapport 1 1.md",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20260212120459.png",
+    "Pasted image 20260212120436.png",
+    "Pasted image 20260212115757.png",
+    "Pasted image 20260212115709.png",
+    "Pasted image 20260212115637.png",
+    "Pasted image 20260212115421.png",
+    "Pasted image 20260212114338.png",
+    "Pasted image 20260212114053.png",
+    "Rapports/Rapport 1.md",
     "TP pdf/S2.04 - TP0 - Sujet - MACQUET VIALLET 25-26.pdf",
     "TP pdf/S2.04 - TP1 - Sujet - MACQUET VIALLET 25-26.pdf",
     "dictionnaire.md",
@@ -210,15 +233,6 @@
     "Pasted image 20260212121238.png",
     "Pasted image 20260212120937.png",
     "screencapture-dbrech-irit-fr-pls-apex-f-2026-02-12-11_52_08.pdf",
-    "screencapture-dbrech-irit-fr-pls-apex-f-2026-02-12-11_40_15.png",
-    "Pasted image 20260212113616.png",
-    "Pasted image 20260212112611.png",
-    "conflict-files-obsidian-git.md",
-    "Pasted image 20260211084513.png",
-    "Pasted image 20260211084328.png",
-    "Pasted image 20260211084228.png",
-    "Pasted image 20260211083613.png",
-    "Pasted image 20260211083157.png",
     "Lexique/Ligne.md",
     "Lexique/indicateur.md",
     "Lexique/états.md",
@@ -242,7 +256,6 @@
     "Lexique/feuille.md",
     "Lexique/Excel.md",
     "Lexique/diagramme à barres.md",
-    "Lexique/Tableau.md",
     "TP pdf/Tp 1 suite - Maquettage -Prototypage avec Moqups.pdf",
     "TP pdf",
     "Rapports",
