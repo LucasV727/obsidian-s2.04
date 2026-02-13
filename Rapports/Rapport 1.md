@@ -81,6 +81,11 @@ le probleme pour les grande base de donner est que nous devons sotcker tout su n
 
 
 
+## Exercice 7
+![[Pasted image 20260212112611.png]]
+## Exercice 8
+![[Pasted image 20260212113616.png]]
+![[screencapture-dbrech-irit-fr-pls-apex-f-2026-02-12-11_52_08.pdf]]
 ## Exercice 9 
 ### a)
 ![[Pasted image 20260212115757.png]]
@@ -93,16 +98,6 @@ le probleme pour les grande base de donner est que nous devons sotcker tout su n
 ### e) 
 ![[Pasted image 20260212120436.png]]
 ![[Pasted image 20260212120459.png]]
-
-
-
-
-
-## Exercice 7
-![[Pasted image 20260212112611.png]]
-## Exercice 8
-![[Pasted image 20260212113616.png]]
-![[screencapture-dbrech-irit-fr-pls-apex-f-2026-02-12-11_52_08.pdf]]
-## 10
+## Exercice 10
 ![[Pasted image 20260212120937.png]]
 ![[Pasted image 20260212121238.png]]
