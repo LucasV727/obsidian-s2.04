@@ -101,3 +101,27 @@ le probleme pour les grande base de donner est que nous devons sotcker tout su n
 ## Exercice 10
 ![[Pasted image 20260212120937.png]]
 ![[Pasted image 20260212121238.png]]
+
+
+
+
+## Exercice 11
+
+pour notre commande nous avont 
+LENGTH(AA) : On mesure la longueur totale de la chaîne de caractères originale (noms + virgules).
+
+REPLACE(AA, ', ', ' ') : On crée une version temporaire de cette chaîne où toutes les virgules sont remplacées par un espace .
+
+La Soustraction (-) : En soustrayant la longueur de la chaîne sans virgules à la longueur de la chaîne originale, on obtient exactement le nombre de caractères supprimés, c'est-à-dire le nombre de virgules.
+
+Comme les éléments sont séparés par des virgules, il y a toujours un élément de plus que de séparateurs (ex: "Pierre, Paul" = 1 virgule pour 2 personnes). On ajoute donc 1 pour obtenir le nombre .
+![[Pasted image 20260213104241.png]]
+ce qui nous donne le résultat: ![[Pasted image 20260213104349.png]]
+
+
+## Exercice 13
+
+
+![[Pasted image 20260213105408.png]]
+
+on peut voir comme premier graphique change en fonction de la categorie selectionenner nous pouvons aussi changer l'intervalle de temp et nous deplacent dessus nous permettent de zomer avec  la deuxième section tou cela sans code juste avec une interface graphique 
