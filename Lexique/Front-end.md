@@ -1,0 +1,1 @@
+La partie visible de l'application avec laquelle l'utilisateur interagit directement via son navigateur web. Elle comprend les écrans, les boutons et les tableaux générés ici par Oracle APEX pour présenter les données de manière jolie.

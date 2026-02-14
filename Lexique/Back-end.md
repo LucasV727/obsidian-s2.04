@@ -1,0 +1,1 @@
+La partie immergée de l'application, invisible pour l'utilisateur, qui gère le stockage, la sécurité et la logique des données. Dans le contexte de ce TP, il repose sur une base de données relationnelle Oracle qui traite les requêtes.

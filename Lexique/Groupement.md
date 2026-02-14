@@ -1,0 +1,1 @@
+Mécanisme permettant de rassembler des lignes ayant des valeurs communes dans une ou plusieurs colonnes. Il est indispensable pour effectuer des calculs statistiques (somme, moyenne, comptage) sur des catégories de données plutôt que sur des lignes individuelles.

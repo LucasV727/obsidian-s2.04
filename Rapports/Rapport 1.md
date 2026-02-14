@@ -124,4 +124,4 @@ ce qui nous donne le résultat: ![[Pasted image 20260213104349.png]]
 
 ![[Pasted image 20260213105408.png]]
 
-on peut voir comme premier graphique change en fonction de la categorie selectionenner nous pouvons aussi changer l'intervalle de temp et nous deplacent dessus nous permettent de zomer avec  la deuxième section tou cela sans code juste avec une interface graphique 
+on peut voir comme premier graphique change en fonction de la categorie selectionenner nous pouvons aussi changer l'intervalle de temp et nous deplacent dessus nous permettent de zomer avec  la deuxième section tout cela sans code juste avec une interface graphique 

@@ -1,0 +1,1 @@
+Composant d'interface graphique, spécifique ici à APEX, qui présente les données issues de la base sous forme de tableau structuré. Il est interactif et permet à l'utilisateur de manipuler l'affichage (tri, filtres, agrégats) sans changer les données sources.
