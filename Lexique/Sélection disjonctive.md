@@ -1,0 +1,1 @@
+Type de filtrage avancé qui utilise l'opérateur logique "OU" (OR). Contrairement à la sélection classique ("ET") qui exige que toutes les conditions soient remplies, la sélection disjonctive retient une ligne si au moins une des conditions spécifiées est vraie (ex: afficher les articles de 2021 OU ceux détectés comme "tortured")
