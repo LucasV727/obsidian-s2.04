@@ -39,7 +39,6 @@ J'ai crée mon workspace apex.
 
 ## Exercice 1
 ![[Pasted image 20260205121512.png]]
-J’ai regardé les onglets tortured scigen et mathgen il y a environ 12 000 lignes.
 <div style="page-break-after: always;"></div>
 
 ## Exercice 2
@@ -48,7 +47,7 @@ Nous comptons 16 rapports sur cette page, comme l'indique la capture ci-dessous.
 ![[Pasted image 20260205122336.png]]
 
 ### Est-ce qu'il y en a qui proposent des représentations sous forme de graphe ? Lesquels ?
-Plusieurs rapports proposent une représentation graphique, identifiable grâce à l'icône de graphe en face de leur titre.
+5 rapports proposent une représentation graphique, les voici :
 ![[Pasted image 20260205122547.png]]
 
 ![[Pasted image 20260205122603.png]]
@@ -62,30 +61,30 @@ Plusieurs rapports proposent une représentation graphique, identifiable grâce 
 ### Vous êtes "nobody", comme indiqué en haut à droite de la fenêtre. Pouvez-vous enregistrer des rapports ?
 Non, ce rôle ne permet pas d'enregistrer un rapport : le bouton de sauvegarde reste désactivé.
 
-
 <div style="page-break-after: always;"></div>
-
 
 ## Exercice 3
 ![[Pasted image 20260210135213.png]]
 
+On arrive a ce résultat :
 ![[Pasted image 20260210134802.png]]
 <div style="page-break-after: always;"></div>
 
 ## Exercice 4
 ![[Pasted image 20260210135338.png]]
 
+Le résultat est le suivant :
 ![[Pasted image 20260210135359.png]]
 ### Que remarquez-vous ? Comment faire pour avoir les DOI de 2026 en premier ? 
 Je remarque que les doi ne sont pas bien classés à l’intérieur de chaque année même après le tri.
-Pour avoir les doi de 2026 en premier il suffit de trier d’abord par Year décroissant.
+Pour avoir les doi de 2026 en premier il suffit de trier d’abord par year décroissant.
 
 <div style="page-break-after: always;"></div>
 
 ## Exercice 5
 ### a)
 Il suffit de cliquer sur le titre de la colonne et de rechercher « 2022 ».
-![[Pasted image 20260211081042.png|500]]
+![[Pasted image 20260215155500.png|500]]
 
 ![[Pasted image 20260211081300.png]]
 
@@ -155,6 +154,7 @@ J’ai ajouté la colonne Mentions qui fait citations + altmetric elle est aprè
 ![[screencapture-dbrech-irit-fr-pls-apex-f-2026-02-12-11_52_08.pdf|500]]
 J’ai mis fond orange sur les années 2021 et 2022 texte rouge pour mentions à 4 chiffres ou plus et lignes roses quand venue contient nature.
 <div style="page-break-after: always;"></div>
+
 ## Exercice 9
 ### a)
 ![[Pasted image 20260212115757.png]]
@@ -211,7 +211,7 @@ Dans le préprint PDF, certaines images sont générées par IA :
 
 Nous avons également relevé une phrase particulièrement torturée :
 ![[Pasted image 20260213103953.png]]
-À la place de « 45 FPS » (frames per second), l’auteur a écrit « 45 images consententes avec la seconde dimension », ce qui est pour le moins surprenant.
+À la place de « 45 FPS » (frames per second), l’auteur a écrit « 45 images consententes avec la seconde dimension », ce qui est hilarant.
 ![[Pasted image 20260213104202.png]]
 
 ![[Pasted image 20260213104242.png]]

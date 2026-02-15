@@ -30,7 +30,7 @@
               "type": "markdown",
               "state": {
                 "file": "Rapports/Rapport 1.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -201,6 +201,7 @@
   },
   "active": "c3759ad767778a01",
   "lastOpenFiles": [
+    "Pasted image 20260215155500.png",
     "Home.md",
     "Lexique/Détecteurs.md",
     "Rapports/Rapport 1.md",
@@ -226,7 +227,6 @@
     "Lexique/Projection.md",
     "Lexique/oracle apex.md",
     "Lexique/Opérateurs de l'algèbre relationnelle.md",
-    "Lexique/opérateurs de l’algèbre relationnelle.md",
     "Pasted image 20260215140130.png",
     "TP pdf/S2.04 - TP1 - Sujet - MACQUET VIALLET 25-26.pdf",
     "Pasted image 20260213105408.png",
