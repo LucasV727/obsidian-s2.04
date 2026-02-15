@@ -1,1 +1,6 @@
-Composant d'interface graphique, spécifique ici à APEX, qui présente les données issues de la base sous forme de tableau structuré. Il est interactif et permet à l'utilisateur de manipuler l'affichage (tri, filtres, agrégats) sans changer les données sources.
+#oracleapex #interface #data
+
+Composant d'[[Interface graphique]] propre à [[oracle apex]] qui présente les données issues de la [[base de données]] sous forme de [[Tableau]] structuré. Il est interactif : l'utilisateur peut appliquer un [[Tri]], une [[Sélection]] (y compris [[Sélection disjonctive]]), un [[Groupement]], des [[Colonne calculée|colonnes calculées]], masquer des colonnes ou lancer un [[Téléchargement]] sans modifier les données sources.
+
+>[!note]
+>[source](https://docs.oracle.com/en/database/oracle/application-express/23.1/htmdb/creating-and-managing-reports.html)
