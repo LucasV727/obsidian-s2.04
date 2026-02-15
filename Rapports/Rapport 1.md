@@ -100,31 +100,10 @@ le probleme pour les grande base de donner est que nous devons sotcker tout su n
 ![[Pasted image 20260212120459.png]]
 ## Exercice 10
 ![[Pasted image 20260212120937.png]]
-<<<<<<< HEAD
 ### A/
 ![[Pasted image 20260212121238.png]]
 ### C/
 ![[Pasted image 20260213095924.png]]
-## Exercice 12
-![[Pasted image 20260213103429.png]]
-On peut voir un papier tourturer avec 14 citations, par curiosité je voulais donc voir a quel point le papier etait torturer, donc je suis aller voir sur l'arxiv ce papier :
-![[Pasted image 20260213103748.png]]
-Et on peut voir dans le preprint PDF que il y a des images généré par IA :
-![[Pasted image 20260213103845.png]]
-J'ai aussi trouver un phrase tres torturée :
-![[Pasted image 20260213103953.png]]
-à la place de 45 FPS ou frame par secondes le tortureur a remplacer ca par `45 images consententes avec la seconde dimention` ce qui est hilarant.
-![[Pasted image 20260213104202.png]]
-![[Pasted image 20260213104242.png]]
-## Exercice 14
-![[Pasted image 20260213105538.png]]
-![[Pasted image 20260213110109.png]]
-=======
-![[Pasted image 20260212121238.png]]
-
-
-
-
 ## Exercice 11
 
 pour notre commande nous avont 
@@ -137,7 +116,17 @@ La Soustraction (-) : En soustrayant la longueur de la chaîne sans virgules à 
 Comme les éléments sont séparés par des virgules, il y a toujours un élément de plus que de séparateurs (ex: "Pierre, Paul" = 1 virgule pour 2 personnes). On ajoute donc 1 pour obtenir le nombre .
 ![[Pasted image 20260213104241.png]]
 ce qui nous donne le résultat: ![[Pasted image 20260213104349.png]]
-
+## Exercice 12
+![[Pasted image 20260213103429.png]]
+On peut voir un papier tourturer avec 14 citations, par curiosité je voulais donc voir a quel point le papier etait torturer, donc je suis aller voir sur l'arxiv ce papier :
+![[Pasted image 20260213103748.png]]
+Et on peut voir dans le preprint PDF que il y a des images généré par IA :
+![[Pasted image 20260213103845.png]]
+J'ai aussi trouver un phrase tres torturée :
+![[Pasted image 20260213103953.png]]
+à la place de 45 FPS ou frame par secondes le tortureur a remplacer ca par `45 images consententes avec la seconde dimention` ce qui est hilarant.
+![[Pasted image 20260213104202.png]]
+![[Pasted image 20260213104242.png]]
 
 ## Exercice 13
 
@@ -145,4 +134,14 @@ ce qui nous donne le résultat: ![[Pasted image 20260213104349.png]]
 ![[Pasted image 20260213105408.png]]
 
 on peut voir comme premier graphique change en fonction de la categorie selectionenner nous pouvons aussi changer l'intervalle de temp et nous deplacent dessus nous permettent de zomer avec  la deuxième section tout cela sans code juste avec une interface graphique 
->>>>>>> origin/main
+## Exercice 14
+![[Pasted image 20260213105538.png]]
+![[Pasted image 20260213110109.png]]
+=======
+![[Pasted image 20260212121238.png]]
+
+
+
+
+
+
