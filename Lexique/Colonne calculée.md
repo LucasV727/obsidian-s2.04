@@ -1,0 +1,1 @@
+Il s'agit d'une nouvelle colonne ajoutée virtuellement au rapport, dont les valeurs ne sont pas stockées telles quelles dans la base de données, mais sont le résultat d'un calcul effectué à partir d'autres colonnes (ex: compter le nombre de virgules pour déduire un nombre d'auteurs).

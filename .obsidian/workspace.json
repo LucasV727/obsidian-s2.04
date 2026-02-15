@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "3a16efc3947f3988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,8 +199,29 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3a16efc3947f3988",
   "lastOpenFiles": [
+    "Home.md",
+    "conflict-files-obsidian-git.md",
+    "Projection.md",
+    "Pasted image 20260213105408.png",
+    "Pasted image 20260213104349.png",
+    "Pasted image 20260213104241.png",
+    "Lexique/Téléchargement.md",
+    "Lexique/Tri.md",
+    "Lexique/Sélection.md",
+    "Lexique/Sélection disjonctive.md",
+    "Lexique/Rapport (Report).md",
+    "Lexique/Projection.md",
+    "Lexique/Opérateurs de l'algèbre relationnelle.md",
+    "Lexique/Masquage de colonne.md",
+    "Lexique/Groupement.md",
+    "Lexique/Front-end.md",
+    "Lexique/Colonne calculée.md",
+    "Lexique/CSV.md",
+    "Lexique/Back-end.md",
+    "Lexique/Algèbre relationnelle.md",
+    "Détecteurs.md",
     "Lexique/opérateurs de l’algèbre relationnelle.md",
     "Rapports/Rapport 1.md",
     "Pasted image 20260213110109.png",
@@ -195,39 +231,18 @@
     "Pasted image 20260213104202.png",
     "Pasted image 20260213103953.png",
     "Pasted image 20260213103845.png",
-    "Pasted image 20260213103748.png",
-    "Pasted image 20260213103429.png",
-    "Pasted image 20260213095924.png",
-    "conflict-files-obsidian-git.md",
     "Rapports/Rapport 1 1.md",
     "TP pdf/S2.04 - TP0 - Sujet - MACQUET VIALLET 25-26.pdf",
     "TP pdf/S2.04 - TP1 - Sujet - MACQUET VIALLET 25-26.pdf",
     "dictionnaire.md",
-    "Home.md",
     "screencapture-dbrech-irit-fr-pls-apex-f-2026-02-12-11_52_08.pdf",
     "Lexique/Ligne.md",
     "Lexique/indicateur.md",
     "Lexique/états.md",
     "Lexique/dashboard.md",
-    "Lexique/cellules.md",
-    "Lexique/business intelligence.md",
-    "Lexique/base de données.md",
-    "Rapports/Rapport 0/Rapport 0.md",
-    "Rapports/Rapport 0.md",
-    "README.md",
-    "README.md.md",
     "Rapports/Rapport 0/Log etudiants Moodle - R1.01 23-24.xlsx",
     "Rapports/Rapport 0",
-    "Lexique/systèmes décisionnels.md",
-    "Lexique/requêtes (SQL).md",
-    "Lexique/systemes decisionnels.md",
-    "Lexique/requetes (sql).md",
-    "Lexique/base de donnée.md",
     "Rapports/Rapport 0/Log etudiants Moodle - R1.01 23-24_anonyme (1).xlsx",
-    "Lexique/Interface graphique.md",
-    "Lexique/feuille.md",
-    "Lexique/Excel.md",
-    "Lexique/diagramme à barres.md",
     "TP pdf/Tp 1 suite - Maquettage -Prototypage avec Moqups.pdf",
     "TP pdf",
     "Rapports",

@@ -1,0 +1,1 @@
+Opération fondamentale qui consiste à ne conserver que les lignes d'une table répondent  une condition logique précise. Elle permet de restreindre le volume de données à analyser en isolant un sous-ensemble spécifique.

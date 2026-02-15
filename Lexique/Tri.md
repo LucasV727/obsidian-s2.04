@@ -1,0 +1,1 @@
+Fonctionnalité permettant d'organiser l'ordre d'affichage des enregistrements selon la valeur d'une ou plusieurs colonnes. Il peut être croissant ou décroissant et est essentiel pour structurer l'information et faciliter la lecture rapide des données.

@@ -1,0 +1,1 @@
+Fonctionnalité d'affichage qui permet de rendre une colonne invisible à l'écran temporairement. Cela permet d'alléger le rapport visuel pour se concentrer sur les données essentielles sans supprimer l'information de la base de données.
