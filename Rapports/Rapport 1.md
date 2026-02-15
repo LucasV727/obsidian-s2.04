@@ -1,9 +1,8 @@
 # Lucas VALENDUC | Yanis SCHAEVERS
 
-## Exercice 0 : Demander un compte pour obtenir un espace de travail APEX
+## Exercice 0
 ![[Pasted image 20260205115942.png]]
-
-
+J'ai crée mon workspace apex.
 <div style="page-break-after: always;"></div>
 
 
