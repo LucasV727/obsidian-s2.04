@@ -1,1 +1,1 @@
-Ce sont des combinaisons de touches pour pouvoir fait des action plus rapidement 
+Ce sont des combinaisons de touches pour pouvoir fait des action plus rapidement.

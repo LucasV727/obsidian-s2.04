@@ -203,7 +203,7 @@ Ainsi, nous obtenons le résultat suivant :
 
 ## Exercice 12
 ![[Pasted image 20260213103429.png]]
-Nous avons repéré un article « torturé » avec 14 citations et avons consulté sa page sur arXiv :
+J'ai repéré un article torturé avec 14 citations et par curiosité, j'ai consulté sa page sur arXiv :
 ![[Pasted image 20260213103748.png]]
 
 Dans le préprint PDF, certaines images sont générées par IA :
@@ -211,14 +211,12 @@ Dans le préprint PDF, certaines images sont générées par IA :
 
 Nous avons également relevé une phrase particulièrement torturée :
 ![[Pasted image 20260213103953.png]]
-À la place de « 45 FPS » (frames per second), l’auteur a écrit « 45 images consententes avec la seconde dimension », ce qui est hilarant.
+À la place de 45 FPS ou frames per second, l’auteur a écrit « 45 images consententes avec la seconde dimension », ce qui est hilarant. L'algorithme n'a clairement pas compris la phrase.
+
 ![[Pasted image 20260213104202.png]]
 
 ![[Pasted image 20260213104242.png]]
-
-
 <div style="page-break-after: always;"></div>
-
 
 ## Exercice 13
 ![[Pasted image 20260213105408.png]]
