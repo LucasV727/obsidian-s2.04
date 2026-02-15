@@ -30,7 +30,7 @@
               "type": "markdown",
               "state": {
                 "file": "Rapports/Rapport 1.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,11 +213,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b6a0f593e7e94d91",
+  "active": "7131137fbe36db26",
   "lastOpenFiles": [
-    "Rapports/Rapport 1.md",
-    "Détecteurs.md",
+    "Lexique/Algèbre relationnelle.md",
     "Lexique/Back-end.md",
+    "Détecteurs.md",
+    "Rapports/Rapport 1.md",
     "Lexique/base de données.md",
     "Home.md",
     "Lexique/business intelligence.md",
@@ -231,7 +232,6 @@
     "Lexique/diagramme à barres.md",
     "Lexique/dashboard.md",
     "Lexique/CSV.md",
-    "Lexique/Algèbre relationnelle.md",
     "Rapports/Rapport 0/Rapport 0.md",
     "TP pdf/S2.04 - TP1 - Sujet - MACQUET VIALLET 25-26.pdf",
     "conflict-files-obsidian-git.md",
