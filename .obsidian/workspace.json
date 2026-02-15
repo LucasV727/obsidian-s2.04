@@ -24,13 +24,17 @@
             }
           },
           {
-            "id": "b6a0f593e7e94d91",
+            "id": "c3759ad767778a01",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Rapports/Rapport 1.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rapport 1"
             }
           }
         ],
@@ -195,8 +199,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "994070951b4307e8",
+  "active": "c3759ad767778a01",
   "lastOpenFiles": [
+    "Home.md",
     "Lexique/Détecteurs.md",
     "Rapports/Rapport 1.md",
     "Lexique/Front-end.md",
@@ -222,7 +227,6 @@
     "Lexique/oracle apex.md",
     "Lexique/Opérateurs de l'algèbre relationnelle.md",
     "Lexique/opérateurs de l’algèbre relationnelle.md",
-    "Lexique/Ligne.md",
     "Pasted image 20260215140130.png",
     "TP pdf/S2.04 - TP1 - Sujet - MACQUET VIALLET 25-26.pdf",
     "Pasted image 20260213105408.png",
