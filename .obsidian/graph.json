@@ -5,18 +5,47 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Rapports  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Lexique  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "file:dictionnaire",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "file:home",
+      "color": {
+        "a": 1,
+        "rgb": 6084351
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 1.87765072765073,
   "lineSizeMultiplier": 1.26642411642412,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.551798561151079,
   "repelStrength": 20,
   "linkStrength": 0.695580678314491,
   "linkDistance": 383,
   "scale": 0.2833323005844426,
-  "close": false
+  "close": true
 }
