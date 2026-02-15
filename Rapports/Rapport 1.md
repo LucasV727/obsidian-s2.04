@@ -127,6 +127,13 @@ J'ai aussi trouver un phrase tres torturée :
 à la place de 45 FPS ou frame par secondes le tortureur a remplacer ca par `45 images consententes avec la seconde dimention` ce qui est hilarant.
 ![[Pasted image 20260213104202.png]]
 ![[Pasted image 20260213104242.png]]
+## Exercice 13
+
+
+![[Pasted image 20260213105408.png]]
+
+
+on peut voir comme premier graphique change en fonction de la categorie selectionenner nous pouvons aussi changer l'intervalle de temp et nous deplacent dessus nous permettent de zomer avec  la deuxième section tout cela sans code juste avec une interface graphique 
 
 ## Exercice 13
 
@@ -137,7 +144,6 @@ on peut voir comme premier graphique change en fonction de la categorie selectio
 ## Exercice 14
 ![[Pasted image 20260213105538.png]]
 ![[Pasted image 20260213110109.png]]
-=======
 ![[Pasted image 20260212121238.png]]
 
 
@@ -145,3 +151,8 @@ on peut voir comme premier graphique change en fonction de la categorie selectio
 
 
 
+## Exercice 15 
+On peut voir que APEX supporte beaucoup de type de charts.
+![[Pasted image 20260215140130.png]]
+Les composants apex transforment directement les résultats de requêtes sql en indicateurs visuels. 
+Pour créer une interface, on définit une source de données dans une région de l'app builder puis on configure les items et la logique associée, tout simplement.
