@@ -1,1 +1,0 @@
-Dans le contexte spécifique de ce système décisionnel scientifique, ce sont des algorithmes  conçus pour analyser automatiquement les publications et identifier des anomalies, des phrases torturées ou des contenus générés artificiellement indiquant une fraude potentielle.
