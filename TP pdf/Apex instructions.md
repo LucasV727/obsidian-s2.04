@@ -38,30 +38,30 @@ Le fichier `Student’s Social Media Addiction.csv` contient des données anonym
 **Titre :** *L'usage des réseaux sociaux influence-t-il les résultats scolaires ?*
 
 ### Page 1 : Accueil
-- **Titre :** Tableau de bord développé par [Noms Prénoms].
-- **Description :** Texte dynamique présentant les stats (X étudiants, âge de A à B, dans C pays) calculées à partir des données.
-- **Graphique :** Diagramme à barres des 5 réseaux sociaux les plus utilisés (tri décroissant).
+- [ ] **Titre :** Tableau de bord développé par [Noms Prénoms].
+- [ ] **Description :** Texte dynamique présentant les stats (X étudiants, âge de A à B, dans C pays) calculées à partir des données.
+- [ ] **Graphique :** Diagramme à barres des 5 réseaux sociaux les plus utilisés (tri décroissant).
 
 ### Page 2 : Corpus (Rapport Dynamique)
 Affichage de toutes les colonnes (titres en français), trié par score d'addiction.
-- **État principal :** Tri addiction croissant, toutes les lignes sur une page.
-- **Thème "Réussite" :** Surlignage vert (étudiants sans influence négative sur les résultats), tri par ID.
-- **Thème "Diplôme" :** Camembert représentant le nombre d'étudiants par catégorie.
-- **Thème "Lien Addiction-Sommeil" :** Temps de sommeil moyen par degré d'addiction.
-- **Rapport personnalisé :** Un rapport au choix (justifié par sa pertinence).
+- [ ] **État principal :** Tri addiction croissant, toutes les lignes sur une page.
+- [ ] **Thème "Réussite" :** Surlignage vert (étudiants sans influence négative sur les résultats), tri par ID.
+- [ ] **Thème "Diplôme" :** Camembert représentant le nombre d'étudiants par catégorie.
+- [ ] **Thème "Lien Addiction-Sommeil" :** Temps de sommeil moyen par degré d'addiction.
+- [ ] **Rapport personnalisé :** Un rapport au choix (justifié par sa pertinence).
 
 ### Page 3 : Exploration
-- Rapport avec **facettes** (Faceted Search).
-- Possibilité de recherche sur tous les attributs de la table.
+- [ ] Rapport avec **facettes** (Faceted Search).
+- [ ] Possibilité de recherche sur tous les attributs de la table.
 
 ### Page 4 : Tableau de bord (Visualisations)
 Au moins 5 graphiques pertinents pour représenter le corpus :
-- Répartition Homme/Femme.
-- Niveaux académiques.
-- Pays d'origines.
-- Heures passées sur les réseaux.
-- Répartition des plateformes.
+- [ ] Répartition Homme/Femme.
+- [ ] Niveaux académiques.
+- [ ] Pays d'origines.
+- [ ] Heures passées sur les réseaux.
+- [ ] Répartition des plateformes.
 
 ### Page 5 : Résultats scolaires
-- **Graphique dédié :** Nombre d'heures passées sur les réseaux en fonction du taux d'addiction.
-- **Contrainte :** Titres obligatoires pour tous les axes (abscisses et ordonnées).
+- [ ] **Graphique dédié :** Nombre d'heures passées sur les réseaux en fonction du taux d'addiction.
+- [ ] **Contrainte :** Titres obligatoires pour tous les axes (abscisses et ordonnées).
