@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Home"
             }
-          },
-          {
-            "id": "173372ebb31b2581",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lexique/Colonne calculée.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Colonne calculée"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "173372ebb31b2581",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Lexique/requêtes (SQL).md",
     "Lexique/Colonne calculée.md",
+    "Lexique/requêtes (SQL).md",
     "Lexique/SQL.md",
     "dictionnaire.md",
     "Home.md",
