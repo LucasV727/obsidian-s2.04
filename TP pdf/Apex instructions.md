@@ -38,9 +38,9 @@ Le fichier `Student’s Social Media Addiction.csv` contient des données anonym
 **Titre :** *L'usage des réseaux sociaux influence-t-il les résultats scolaires ?*
 
 ### Page 1 : Accueil
-- [ ] **Titre :** Tableau de bord développé par [Noms Prénoms].
-- [ ] **Description :** Texte dynamique présentant les stats (X étudiants, âge de A à B, dans C pays) calculées à partir des données.
-- [ ] **Graphique :** Diagramme à barres des 5 réseaux sociaux les plus utilisés (tri décroissant).
+- [x] **Titre :** Tableau de bord développé par [Noms Prénoms].
+- [x] **Description :** Texte dynamique présentant les stats (X étudiants, âge de A à B, dans C pays) calculées à partir des données.
+- [x] **Graphique :** Diagramme à barres des 5 réseaux sociaux les plus utilisés (tri décroissant).
 
 ### Page 2 : Corpus (Rapport Dynamique)
 Affichage de toutes les colonnes (titres en français), trié par score d'addiction.
