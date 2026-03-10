@@ -58,7 +58,7 @@ Affichage de toutes les colonnes (titres en français), trié par score d'addict
 Au moins 5 graphiques pertinents pour représenter le corpus :
 - [x] Répartition Homme/Femme.
 - [ ] Niveaux académiques.
-- [ ] Pays d'origines.
+- [x] Pays d'origines.
 - [ ] Heures passées sur les réseaux.
 - [ ] Répartition des plateformes.
 
