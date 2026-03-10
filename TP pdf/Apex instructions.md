@@ -67,35 +67,46 @@ Au moins 5 graphiques pertinents pour représenter le corpus :
 - [x] **Contrainte :** Titres obligatoires pour tous les axes (abscisses et ordonnées).
 
 ![[Pasted image 20260224173327.png]]
-Page 6 : une **rapport interactif** nommée **IUT** comportant toutes les données des personnes dont le pays est "IUT". Le nom du pays n'apparait pas et le rapport est trié par numéro d'étudiant.
+### Page 6 : un **rapport interactif** nommée **IUT** comportant toutes les données des personnes dont le pays est "IUT". Le nom du pays n'apparait pas et le rapport est trié par numéro d'étudiant.
 
 Ce rapport liste **5 états publics nommés** :
 
-- - État principal : le rapport trié par degré d'addiction croissant et affiche TOUTES les lignes de la table sur une seule page.
-     Thème "Réussite" : surligner en vert les étudiants qui déclarent que les réseaux sociaux n'ont pas d'influence sur leurs résultats scolaires, trié par identifiant d'étudiant.
-    - Thème "Diplôme" : un camembert représentant le nombre d'étudiants par catégorie de diplôme
-    - Thème "lien addiction-sommeil" : liste le temps moyen de sommeil des étudiants en fonction de leur degré d'addiction.
-    - Un rapport de votre choix (dont vous devrez justifier la pertinence).
+- [ ] - État principal : le rapport trié par degré d'addiction croissant et affiche TOUTES les lignes de la table sur une seule page.
+     - [ ] Thème "Réussite" : surligner en vert les étudiants qui déclarent que les réseaux sociaux n'ont pas d'influence sur leurs résultats scolaires, trié par identifiant d'étudiant.
+    - [ ] Thème "Diplôme" : un camembert représentant le nombre d'étudiants par catégorie de diplôme
+    - [ ] Thème "lien addiction-sommeil" : liste le temps moyen de sommeil des étudiants en fonction de leur degré d'addiction.
+    - [ ] Un rapport de votre choix (dont vous devrez justifier la pertinence).
 
 ---
 
-Page 7 : une nouvelle page **Tableau de bord** présentant les données brutes de l'IUT à l'aide de différents graphiques. Nous souhaitons au moins 5 graphiques : répartition homme/femme, niveaux académiques, pays d'origines, nombre d'heures passées sur les réseaux sociaux, répartition des plateformes utilisées, etc...
+### Page 7 : une nouvelle page **Tableau de bord** présentant les données brutes de l'IUT à l'aide de différents graphiques. 
+- [ ] Nous souhaitons au moins 5 graphiques : 
+- [ ] répartition homme/femme, 
+- [ ] niveaux académiques, 
+- [ ] pays d'origines, 
+- [ ] nombre d'heures passées sur les réseaux sociaux, 
+- [ ] répartition des plateformes utilisées, 
+- [ ] etc...
 
 ATTENTION ! Nous vous demandons de choisir le graphique qui sera le plus pertinent pour représenter les données du corpus.
 
 ---
 
-Page 8 : une page **Exploration** présentant un rapport avec les facettes sur les données du sondage de l'IUT, avec possibilité de faire des recherches sur tous les attributs de la table. Les colonnes du rapports sont celles de la Page 2.
+### Page 8 : une page **Exploration** 
+présentant un rapport avec les facettes sur les données du sondage de l'IUT, 
+- [ ] avec possibilité de faire des recherches sur tous les attributs de la table. 
+- [ ] Les colonnes du rapports sont celles de la Page 2.
 
 ---
 
-Page 9 : une page **Addiction** présentant deux [diagrammes](https://en.wikipedia.org/wiki/Line_chart) montrant
+### Page 9 : une page **Addiction** présentant deux [diagrammes](https://en.wikipedia.org/wiki/Line_chart) montrant
 
-- le nombre d'heures passés sur les réseaux sociaux en fonction de leur taux d'addiction.
-- les niveaux d'addiction en fonction du réseau social utilisé.
+- [ ] le nombre d'heures passés sur les réseaux sociaux en fonction de leur taux d'addiction.
+- [ ] les niveaux d'addiction en fonction du réseau social utilisé.
 
-ATTENTION ! Nous vous demandons de choisir les graphiques qui seront le plus pertinent pour ces représentations.
+>[!warning]
+> ATTENTION ! Nous vous demandons de choisir les graphiques qui seront le plus pertinent pour ces représentations.
 
 ---
 
-Page 10 : une page **personnelle** présentant une comparaison des données initiales et de celles que vous venez d'ajouter à votre base de données, permettant de faire ressortir les éléments communs et les différences.
+### Page 10 : une page **personnelle** présentant une comparaison desATTENTION ! Nous vous demandons de choisir les graphiques qui seront le plus pertinent pour ces représentations. données initiales et de celles que vous venez d'ajouter à votre base de données, permettant de faire ressortir les éléments communs et les différences.
