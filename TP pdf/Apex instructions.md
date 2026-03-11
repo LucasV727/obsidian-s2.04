@@ -73,9 +73,9 @@ Ce rapport liste **5 états publics nommés** :
 
 - [x] - État principal : le rapport trié par degré d'addiction croissant et affiche TOUTES les lignes de la table sur une seule page.
      - [x] Thème "Réussite" : surligner en vert les étudiants qui déclarent que les réseaux sociaux n'ont pas d'influence sur leurs résultats scolaires, trié par identifiant d'étudiant.
-    - [ ] Thème "Diplôme" : un camembert représentant le nombre d'étudiants par catégorie de diplôme
+    - [x] Thème "Diplôme" : un camembert représentant le nombre d'étudiants par catégorie de diplôme
     - [ ] Thème "lien addiction-sommeil" : liste le temps moyen de sommeil des étudiants en fonction de leur degré d'addiction.
-    - [ ] Un rapport de votre choix (dont vous devrez justifier la pertinence).
+    - [x] Un rapport de votre choix (dont vous devrez justifier la pertinence).
 
 ---
 
