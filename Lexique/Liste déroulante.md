@@ -1,1 +1,3 @@
+#lexique
+
 Élément d'interface permettant de choisir une option parmi une liste cachée qui se déploie au clic.

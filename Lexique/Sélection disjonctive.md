@@ -1,1 +1,3 @@
-Type de filtrage avancé qui utilise l'opérateur logique « OU » (OR). Contrairement à la [[Sélection]] classique (basée sur « ET »), la sélection disjonctive retient une ligne si au moins une des conditions spécifiées est vraie (ex. : afficher les articles de 2021 OU ceux détectés comme « tortured »). Elle s'appuie sur les [[Opérateurs de l'algèbre relationnelle]] pour combiner plusieurs critères dans un même jeu de données.
+#données
+
+Type de filtrage avancé qui utilise l'opérateur logique « OU » (OR). Contrairement à la [[Sélection]] classique (basée sur « ET »), la [[Sélection]] disjonctive retient une [[Ligne]] si au moins une des conditions spécifiées est vraie (ex. : afficher les articles de 2021 OU ceux détectés comme « tortured »). Elle s'appuie sur les [[Opérateurs de l'algèbre relationnelle]] pour combiner plusieurs critères dans un même [[Jeu de données (Dataset)|jeu de données]].

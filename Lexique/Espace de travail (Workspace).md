@@ -1,1 +1,3 @@
+#lexique
+
 Environnement sur APEX attribué pour créer et gérer ses propres applications.

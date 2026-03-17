@@ -1,6 +1,6 @@
 #interface #graphique #gui
 
-Une interface graphique c'est quelque chose qui permet d'interagir avec un appareil comme un ordinateur à l'aide d'éléments visuels comme des icônes, fenêtres et menus au lieu de devoir tout faire dans la [[Ligne]] de commande / terminal.
+Une interface graphique c'est quelque chose qui permet d'interagir avec un appareil comme un ordinateur à l'aide d'éléments visuels comme des icônes, fenêtres et [[menu|menus]] au lieu de devoir tout faire dans la [[Ligne]] de commande / terminal.
 
 C'est utile pour :
 - visualiser plus clairement un [[Tableau]] ou un [[dashboard]].

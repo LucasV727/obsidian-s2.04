@@ -1,6 +1,6 @@
 #menu #interface #navigation
 
-Un menu c'est une liste d'options ou de commandes qui permet à l'utilisateur de choisir ce qu'il veut faire dans une interface. Dans un système décisionnel, ça sert surtout à manipuler les données sans avoir besoin de toucher au code.
+Un menu c'est une liste d'options ou de commandes qui permet à l'[[Utilisateur]] de choisir ce qu'il veut faire dans une interface. Dans un système décisionnel, ça sert surtout à manipuler les données sans avoir besoin de toucher au code.
 
 ![[Pasted image 20260201220742.png|400]]
 
