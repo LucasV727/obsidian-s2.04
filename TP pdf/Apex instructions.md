@@ -96,10 +96,7 @@ ATTENTION ! Nous vous demandons de choisir le graphique qui sera le plus pertine
 présentant un rapport avec les facettes sur les données du sondage de l'IUT, 
 - [x] avec possibilité de faire des recherches sur tous les attributs de la table. 
 - [x] Les colonnes du rapports sont celles de la Page 2.
-<<<<<<< HEAD
-=======
 - [ ] il manque quelques column
->>>>>>> origin/main
 
 ---
 
@@ -112,16 +109,22 @@ présentant un rapport avec les facettes sur les données du sondage de l'IUT,
 > ATTENTION ! Nous vous demandons de choisir les graphiques qui seront le plus pertinent pour ces représentations.
   élevé, facile à défendre.
 
-1. Sleep hours per night (dodo) $\leftrightarrow$ mental health score (r=0.55)
-2. Addiction ↔ Mental Health (r = -0.67) — la plus impactante socialement. Plus le score d'addiction monte, plus la santé mentale se dégrade. C'est le lien direct "usage excessif → conséquences sur la santé" qui donne du poids à l'analyse.
-  
-![[1_correlation_matrix 1.png]]
   
 ---
 
-### Page 10 : une page **personnelle** présentant une c desATTENTION ! Nous vous demandons de choisir les graphiques qui seront le plus pertinent pour ces représentations. données initiales et de celles que vous venez d'ajouter à votre base de données, permettant de faire ressortir les éléments communs et les différences.
+### Page 10 : une page **personnelle** présentant une comparaison des ATTENTION ! 
 
+>[!warning]
+> Nous vous demandons de choisir les graphiques qui seront le plus pertinent pour ces représentations. 
+> Les données initiales et de celles que vous venez d'ajouter à votre base de données, permettant de faire ressortir les éléments communs et les différences.
 
+1. Sleep hours per night (dodo) $\leftrightarrow$ mental health score (r=0.55)
+2. Addiction ↔ Mental Health (r = -0.67) — la plus impactante socialement. Plus le score d'addiction monte, plus la santé mentale se dégrade. C'est le lien direct "usage excessif → conséquences sur la santé" qui donne du poids à l'analyse.
+
+![[1_correlation_matrix 1.png|500]]
+
+---
+## partie final
 
 Nous avons récupéré les résultats scolaires et les notes des étudiants ayant participé à l'enquête. 
 
@@ -133,3 +136,8 @@ Vous devez maintenant :
 Nous vous demandons de créer une nouvelle page explorant les différentes corrélation possibles afin de pouvoir faire votre analyse. 
 
 **L'originalité et la pertinence** de votre étude **seront fortement valorisées.**
+
+---
+## todo
+- [ ] mettre en ordre l'ordre les pages
+- [ ] ajouter des icones partout sur tout les tabs
