@@ -1,0 +1,1 @@
+Absence de valeur ou donnée non renseignée dans une table, souvent représentée par un tiret.

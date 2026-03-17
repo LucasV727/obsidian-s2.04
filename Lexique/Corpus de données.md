@@ -1,0 +1,1 @@
+Ensemble de données structurées et regroupées pour servir de base à une étude.

@@ -1,0 +1,1 @@
+Opérations mathématiques combinant les résultats de plusieurs tables dans une base de données.

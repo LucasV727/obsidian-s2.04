@@ -1,0 +1,1 @@
+Configuration initiale et par défaut d'un rapport interactif telle que définie par le concepteur.
