@@ -80,13 +80,13 @@ Ce rapport liste **5 états publics nommés** :
 ---
 
 ### Page 7 : une nouvelle page **Tableau de bord** présentant les données brutes de l'IUT à l'aide de différents graphiques. 
-- [ ] Nous souhaitons au moins 5 graphiques : 
-- [ ] répartition homme/femme, 
-- [ ] niveaux académiques, 
-- [ ] pays d'origines, 
-- [ ] nombre d'heures passées sur les réseaux sociaux, 
-- [ ] répartition des plateformes utilisées, 
-- [ ] etc...
+- [x] Nous souhaitons au moins 5 graphiques : 
+- [x] répartition homme/femme, 
+- [x] niveaux académiques, 
+- [x] pays d'origines, 
+- [x] nombre d'heures passées sur les réseaux sociaux, 
+- [x] répartition des plateformes utilisées, 
+- [x] etc...
 
 ATTENTION ! Nous vous demandons de choisir le graphique qui sera le plus pertinent pour représenter les données du corpus.
 
@@ -94,8 +94,9 @@ ATTENTION ! Nous vous demandons de choisir le graphique qui sera le plus pertine
 
 ### Page 8 : une page **Exploration** 
 présentant un rapport avec les facettes sur les données du sondage de l'IUT, 
-- [ ] avec possibilité de faire des recherches sur tous les attributs de la table. 
-- [ ] Les colonnes du rapports sont celles de la Page 2.
+- [x] avec possibilité de faire des recherches sur tous les attributs de la table. 
+- [x] Les colonnes du rapports sont celles de la Page 2.
+- [ ] il manque quelques column
 
 ---
 
@@ -106,7 +107,12 @@ présentant un rapport avec les facettes sur les données du sondage de l'IUT,
 
 >[!warning]
 > ATTENTION ! Nous vous demandons de choisir les graphiques qui seront le plus pertinent pour ces représentations.
+1. Usage ↔ Addiction (r = +0.71) — la plus forte du dataset. Chaque heure supplémentaire sur les réseaux pousse le score d'addiction vers le haut. Corrélation claire, n
+  élevé, facile à défendre.
 
+  2. Addiction ↔ Mental Health (r = -0.67) — la plus impactante socialement. Plus le score d'addiction monte, plus la santé mentale se dégrade. C'est le lien direct "usage
+  excessif → conséquences sur la santé" qui donne du poids à l'analyse.
+  
 ---
 
 ### Page 10 : une page **personnelle** présentant une comparaison desATTENTION ! Nous vous demandons de choisir les graphiques qui seront le plus pertinent pour ces représentations. données initiales et de celles que vous venez d'ajouter à votre base de données, permettant de faire ressortir les éléments communs et les différences.
