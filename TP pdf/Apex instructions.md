@@ -105,9 +105,13 @@ présentant un rapport avec les facettes sur les données du sondage de l'IUT,
 - [ ] le nombre d'heures passés sur les réseaux sociaux en fonction de leur taux d'addiction.
 - [ ] les niveaux d'addiction en fonction du réseau social utilisé.
 
+---
+
 >[!warning]
 > ATTENTION ! Nous vous demandons de choisir les graphiques qui seront le plus pertinent pour ces représentations.
-1. Usage ↔ Addiction (r = +0.71) — la plus forte du dataset. Chaque heure supplémentaire sur les réseaux pousse le score d'addiction vers le haut. Corrélation claire, n
+
+![[1_correlation_matrix.png]]
+1. mental health ↔ sleep per night (r = +0.71) — la plus forte du dataset. Chaque heure supplémentaire sur les réseaux pousse le score d'addiction vers le haut. Corrélation claire, n
   élevé, facile à défendre.
 
   2. Addiction ↔ Mental Health (r = -0.67) — la plus impactante socialement. Plus le score d'addiction monte, plus la santé mentale se dégrade. C'est le lien direct "usage
