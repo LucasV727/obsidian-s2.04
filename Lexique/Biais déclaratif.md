@@ -1,0 +1,1 @@
+Limite d'une étude où les données, reposant sur les déclarations personnelles, peuvent être faussées par la perception des participants.

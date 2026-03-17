@@ -1,0 +1,1 @@
+Processus consistant à retirer ou masquer les informations personnelles identifiables d'un jeu de données pour protéger la vie privée.
