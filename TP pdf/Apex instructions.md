@@ -102,8 +102,8 @@ présentant un rapport avec les facettes sur les données du sondage de l'IUT,
 
 ### Page 9 : une page **Addiction** présentant deux [diagrammes](https://en.wikipedia.org/wiki/Line_chart) montrant
 
-- [ ] le nombre d'heures passés sur les réseaux sociaux en fonction de leur taux d'addiction.
-- [ ] les niveaux d'addiction en fonction du réseau social utilisé.
+- [x] le nombre d'heures passés sur les réseaux sociaux en fonction de leur taux d'addiction.
+- [x] les niveaux d'addiction en fonction du réseau social utilisé.
 
 ---
 
@@ -120,3 +120,6 @@ présentant un rapport avec les facettes sur les données du sondage de l'IUT,
 ---
 
 ### Page 10 : une page **personnelle** présentant une comparaison desATTENTION ! Nous vous demandons de choisir les graphiques qui seront le plus pertinent pour ces représentations. données initiales et de celles que vous venez d'ajouter à votre base de données, permettant de faire ressortir les éléments communs et les différences.
+
+### todo plus tard
+- [ ] regler l'ordre des pages
