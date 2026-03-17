@@ -109,10 +109,6 @@ présentant un rapport avec les facettes sur les données du sondage de l'IUT,
 > ATTENTION ! Nous vous demandons de choisir les graphiques qui seront le plus pertinent pour ces représentations.
   élevé, facile à défendre.
 
-1. Sleep hours per night (dodo) $\leftrightarrow$ mental health score (r=0.55)
-2. Addiction ↔ Mental Health (r = -0.67) — la plus impactante socialement. Plus le score d'addiction monte, plus la santé mentale se dégrade. C'est le lien direct "usage excessif → conséquences sur la santé" qui donne du poids à l'analyse.
-  
-![[1_correlation_matrix 1.png]]
   
 ---
 
@@ -121,6 +117,11 @@ présentant un rapport avec les facettes sur les données du sondage de l'IUT,
 >[!warning]
 > Nous vous demandons de choisir les graphiques qui seront le plus pertinent pour ces représentations. 
 > Les données initiales et de celles que vous venez d'ajouter à votre base de données, permettant de faire ressortir les éléments communs et les différences.
+
+1. Sleep hours per night (dodo) $\leftrightarrow$ mental health score (r=0.55)
+2. Addiction ↔ Mental Health (r = -0.67) — la plus impactante socialement. Plus le score d'addiction monte, plus la santé mentale se dégrade. C'est le lien direct "usage excessif → conséquences sur la santé" qui donne du poids à l'analyse.
+
+![[1_correlation_matrix 1.png|500]]
 
 ---
 ## partie final
@@ -135,3 +136,8 @@ Vous devez maintenant :
 Nous vous demandons de créer une nouvelle page explorant les différentes corrélation possibles afin de pouvoir faire votre analyse. 
 
 **L'originalité et la pertinence** de votre étude **seront fortement valorisées.**
+
+---
+## todo
+- [ ] mettre en ordre l'ordre les pages
+- [ ] ajouter des icones partout sur tout les tabs
