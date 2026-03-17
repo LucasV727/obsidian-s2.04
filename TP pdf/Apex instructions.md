@@ -96,10 +96,7 @@ ATTENTION ! Nous vous demandons de choisir le graphique qui sera le plus pertine
 présentant un rapport avec les facettes sur les données du sondage de l'IUT, 
 - [x] avec possibilité de faire des recherches sur tous les attributs de la table. 
 - [x] Les colonnes du rapports sont celles de la Page 2.
-<<<<<<< HEAD
-=======
 - [ ] il manque quelques column
->>>>>>> origin/main
 
 ---
 
