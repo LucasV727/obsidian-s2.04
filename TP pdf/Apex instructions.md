@@ -119,9 +119,14 @@ présentant un rapport avec les facettes sur les données du sondage de l'IUT,
   
 ---
 
-### Page 10 : une page **personnelle** présentant une c desATTENTION ! Nous vous demandons de choisir les graphiques qui seront le plus pertinent pour ces représentations. données initiales et de celles que vous venez d'ajouter à votre base de données, permettant de faire ressortir les éléments communs et les différences.
+### Page 10 : une page **personnelle** présentant une comparaison des ATTENTION ! 
 
+>[!warning]
+> Nous vous demandons de choisir les graphiques qui seront le plus pertinent pour ces représentations. 
+> Les données initiales et de celles que vous venez d'ajouter à votre base de données, permettant de faire ressortir les éléments communs et les différences.
 
+---
+## partie final
 
 Nous avons récupéré les résultats scolaires et les notes des étudiants ayant participé à l'enquête. 
 
