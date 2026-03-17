@@ -1,0 +1,1 @@
+Fonctionnalité permettant de filtrer des données simultanément selon plusieurs attributs ou catégories.

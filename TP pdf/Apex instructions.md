@@ -96,22 +96,21 @@ ATTENTION ! Nous vous demandons de choisir le graphique qui sera le plus pertine
 présentant un rapport avec les facettes sur les données du sondage de l'IUT, 
 - [x] avec possibilité de faire des recherches sur tous les attributs de la table. 
 - [x] Les colonnes du rapports sont celles de la Page 2.
+<<<<<<< HEAD
+=======
 - [ ] il manque quelques column
+>>>>>>> origin/main
 
 ---
 
 ### Page 9 : une page **Addiction** présentant deux [diagrammes](https://en.wikipedia.org/wiki/Line_chart) montrant
 
-- [x] le nombre d'heures passés sur les réseaux sociaux en fonction de leur taux d'addiction.
-- [x] les niveaux d'addiction en fonction du réseau social utilisé.
-
----
+- [ ] le nombre d'heures passés sur les réseaux sociaux en fonction de leur taux d'addiction.
+- [ ] les niveaux d'addiction en fonction du réseau social utilisé.
 
 >[!warning]
 > ATTENTION ! Nous vous demandons de choisir les graphiques qui seront le plus pertinent pour ces représentations.
-
-![[1_correlation_matrix.png]]
-1. mental health ↔ sleep per night (r = +0.71) — la plus forte du dataset. Chaque heure supplémentaire sur les réseaux pousse le score d'addiction vers le haut. Corrélation claire, n
+1. Usage ↔ Addiction (r = +0.71) — la plus forte du dataset. Chaque heure supplémentaire sur les réseaux pousse le score d'addiction vers le haut. Corrélation claire, n
   élevé, facile à défendre.
 
   2. Addiction ↔ Mental Health (r = -0.67) — la plus impactante socialement. Plus le score d'addiction monte, plus la santé mentale se dégrade. C'est le lien direct "usage
@@ -121,5 +120,15 @@ présentant un rapport avec les facettes sur les données du sondage de l'IUT,
 
 ### Page 10 : une page **personnelle** présentant une c desATTENTION ! Nous vous demandons de choisir les graphiques qui seront le plus pertinent pour ces représentations. données initiales et de celles que vous venez d'ajouter à votre base de données, permettant de faire ressortir les éléments communs et les différences.
 
-### todo plus tard
-- [ ] regler l'ordre des pages
+
+
+Nous avons récupéré les résultats scolaires et les notes des étudiants ayant participé à l'enquête. 
+
+Vous devez maintenant :
+
+- mettre à jour votre base de données en ajoutant deux nouvelles tables (résultats et notes)
+- analyser s'il existe une corrélation entre les résultats scolaires, les notes et les résultats du sondage
+
+Nous vous demandons de créer une nouvelle page explorant les différentes corrélation possibles afin de pouvoir faire votre analyse. 
+
+**L'originalité et la pertinence** de votre étude **seront fortement valorisées.**

@@ -1,0 +1,1 @@
+Système de stockage organisant les informations dans des tableaux liés entre eux.

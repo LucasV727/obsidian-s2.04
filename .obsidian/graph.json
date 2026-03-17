@@ -1,9 +1,50 @@
 {
+<<<<<<< HEAD
+<<<<<<< HEAD
   "collapse-filter": true,
+=======
+  "collapse-filter": false,
+>>>>>>> origin/main
+=======
+  "collapse-filter": true,
+>>>>>>> origin/main
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": false
+=======
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.8155035971223,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.531346351490236,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.5187543344009335,
+=======
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
@@ -47,5 +88,7 @@
   "linkStrength": 0.695580678314491,
   "linkDistance": 383,
   "scale": 0.17745151305249252,
+>>>>>>> origin/main
   "close": true
+>>>>>>> origin/main
 }

@@ -1,0 +1,1 @@
+Ensemble des éléments visuels (boutons, menus, fenêtres) permettant d'utiliser un logiciel.

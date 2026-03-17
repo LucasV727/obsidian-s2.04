@@ -1,0 +1,1 @@
+Rassemblement de lignes ayant des valeurs communes afin d'effectuer des calculs statistiques (somme, moyenne).
