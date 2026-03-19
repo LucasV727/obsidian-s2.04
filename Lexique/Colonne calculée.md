@@ -1,1 +1,3 @@
-Une colonne calculée est ajoutée virtuellement à un [[Rapport (Report)]] : ses valeurs ne sont pas stockées telles quelles dans la [[base de données]], mais résultent d'un calcul appliqué à d'autres colonnes (ex. : compter le nombre de virgules pour déduire un nombre d'auteurs). Elle s'évalue ligne par ligne lors de la génération du [[Tableau]] ou d'un [[dashboard]].
+#base-de-données #données
+
+Une [[Attribut|colonne]] calculée est ajoutée virtuellement à un [[Rapport (Report)]] : ses valeurs ne sont pas stockées telles quelles dans la [[base de données]], mais résultent d'un calcul appliqué à d'autres [[Attribut|colonnes]] (ex. : compter le nombre de virgules pour déduire un nombre d'auteurs). Elle s'évalue [[Ligne]] par [[Ligne]] lors de la génération du [[Tableau]] ou d'un [[dashboard]].

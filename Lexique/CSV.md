@@ -1,1 +1,3 @@
-Format de fichier texte ouvert utilisé pour l'échange de données tabulaires. Chaque ligne du fichier correspond à une ligne de données et les champs sont séparés par un caractère délimiteur (souvent une virgule ou un point-virgule). C'est le format standard pour exporter des données d'une application web vers un [[Tableau]] ou un tableur comme [[Excel]], lisible par la plupart des outils de [[business intelligence]] et des [[systèmes décisionnels]].
+#données
+
+Format de fichier texte ouvert utilisé pour l'échange de données tabulaires. Chaque [[Ligne]] du fichier correspond à une [[Ligne]] de données et les champs sont séparés par un caractère délimiteur (souvent une virgule ou un point-virgule). C'est le format standard pour exporter des données d'une application web vers un [[Tableau]] ou un tableur comme [[Excel]], lisible par la plupart des outils de [[business intelligence]] et des [[systèmes décisionnels]].

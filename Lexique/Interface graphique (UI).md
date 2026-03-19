@@ -1,1 +1,3 @@
-Ensemble des éléments visuels (boutons, menus, fenêtres) permettant d'utiliser un logiciel.
+#lexique
+
+Ensemble des éléments visuels (boutons, [[menu|menus]], fenêtres) permettant d'utiliser un logiciel.

@@ -1,1 +1,3 @@
+#lexique
+
 Identifiant unique utilisé pour référencer et retrouver un article scientifique.

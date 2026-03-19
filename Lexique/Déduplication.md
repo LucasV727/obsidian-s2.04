@@ -1,1 +1,3 @@
-Suppression des entrées en double dans une base de données à l'aide d'un identifiant unique.
+#base-de-données #données
+
+Suppression des entrées en double dans une [[base de données]] à l'aide d'un identifiant unique.
