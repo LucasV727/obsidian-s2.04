@@ -114,9 +114,7 @@ présentant un rapport avec les facettes sur les données du sondage de l'IUT,
 
 ### Page 10 : une page **personnelle** présentant une comparaison des ATTENTION ! 
 
->[!warning]
-> Nous vous demandons de choisir les graphiques qui seront le plus pertinent pour ces représentations. 
-> Les données initiales et de celles que vous venez d'ajouter à votre base de données, permettant de faire ressortir les éléments communs et les différences.
+une page personnelle présentant une comparaison des données initiales et de celles que vous venez d'ajouter à votre base de données, permettant de faire ressortir les éléments communs et les différences. 
 
 1. Sleep hours per night (dodo) $\leftrightarrow$ mental health score (r=0.55)
 2. Addiction ↔ Mental Health (r = -0.67) — la plus impactante socialement. Plus le score d'addiction monte, plus la santé mentale se dégrade. C'est le lien direct "usage excessif → conséquences sur la santé" qui donne du poids à l'analyse.
@@ -130,8 +128,8 @@ Nous avons récupéré les résultats scolaires et les notes des étudiants ayan
 
 Vous devez maintenant :
 
-- mettre à jour votre base de données en ajoutant deux nouvelles tables (résultats et notes)
-- analyser s'il existe une corrélation entre les résultats scolaires, les notes et les résultats du sondage
+- [x] mettre à jour votre base de données en ajoutant deux nouvelles tables (résultats et notes)
+- [ ] analyser s'il existe une corrélation entre les résultats scolaires, les notes et les résultats du sondage
 
 Nous vous demandons de créer une nouvelle page explorant les différentes corrélation possibles afin de pouvoir faire votre analyse. 
 
@@ -140,4 +138,4 @@ Nous vous demandons de créer une nouvelle page explorant les différentes corr�
 ---
 ## todo
 - [ ] mettre en ordre l'ordre les pages
-- [ ] ajouter des icones partout sur tout les tabs
+- [ ] ajouter des icons partout sur tout les tabs
