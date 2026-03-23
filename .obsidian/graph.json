@@ -1,94 +1,22 @@
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "collapse-filter": true,
-=======
   "collapse-filter": false,
->>>>>>> origin/main
-=======
-  "collapse-filter": true,
->>>>>>> origin/main
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-<<<<<<< HEAD
-<<<<<<< HEAD
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
-  "close": false
-=======
-  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -0.3,
-  "nodeSizeMultiplier": 1.8155035971223,
-  "lineSizeMultiplier": 5,
-  "collapse-forces": false,
-  "centerStrength": 0.531346351490236,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.5187543344009335,
-=======
-  "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:Rapports  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "path:Lexique  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "file:dictionnaire",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "file:home",
-      "color": {
-        "a": 1,
-        "rgb": 6084351
-      }
-    }
-  ],
-  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.8,
-  "nodeSizeMultiplier": 1.87765072765073,
-  "lineSizeMultiplier": 1.26642411642412,
-  "collapse-forces": true,
-  "centerStrength": 0.551798561151079,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.21214897260274,
+  "collapse-forces": false,
+  "centerStrength": 0.994092465753425,
   "repelStrength": 20,
-  "linkStrength": 0.695580678314491,
-  "linkDistance": 383,
-  "scale": 0.17745151305249252,
->>>>>>> origin/main
-  "close": true
->>>>>>> origin/main
+  "linkStrength": 0,
+  "linkDistance": 250,
+  "scale": 0.47698294761825993,
+  "close": false
 }
